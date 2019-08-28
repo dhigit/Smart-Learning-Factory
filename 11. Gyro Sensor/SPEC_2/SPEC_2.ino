@@ -8,8 +8,8 @@ IoTMakers im;
 #define authRqtNo     "2q0kd27ch"
 #define extrSysID     "OPEN_TCP_001PTL001_1000007606"
 
-#define WIFI_SSID     "koreatech314 2.4G"
-#define WIFI_PASS     "koreatech314"
+#define WIFI_SSID     "ICT-LAB-2.4G"
+#define WIFI_PASS     "12345678"
 
 #define TAG_ID        "MPUTEMP"
 
@@ -69,7 +69,8 @@ void loop() {
 
   float tempC = (float) Tmp/340+36.53;
   Serial.print("Temperature: ");
-  Serial.println(tempC);
+  Serial.print(tempC);
+  Serial.println(" C");
 
   im.send_numdata(TAG_ID, tempC); 
   delay(250);
