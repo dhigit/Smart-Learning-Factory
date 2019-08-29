@@ -9,6 +9,7 @@
 
 SoftwareSerial serialSW(BT_TX, BT_RX);
 String stringIn = "";
+String stringIn2 = "";
 
 void setup() {
   Serial.begin(9600);
@@ -30,15 +31,19 @@ void loop() {
   }
 
   if(!stringIn.equals("")){
+    Serial.println("");
     Serial.println("Recieved: " + stringIn);
     setLED(stringIn);
     stringIn = "";
   }
 
   // AT Command
-  if (Serial.available()){
-    serialSW.write(Serial.read());
+  while (Serial.available()){
+    char msg = (char) Serial.read();
+    serialSW.write(msg);
+    Serial.print(msg);
   }
+
 }
 
 
