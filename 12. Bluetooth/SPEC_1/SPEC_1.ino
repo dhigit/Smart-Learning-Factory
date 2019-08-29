@@ -31,17 +31,16 @@ void loop() {
 
   if(!stringIn.equals("")){
     Serial.println("Recieved: " + stringIn);
-    //ATCommand(stringIn); //commit AT command
     setLED(stringIn);
     stringIn = "";
   }
+
+  // AT Command
+  if (Serial.available()){
+    serialSW.write(Serial.read());
+  }
 }
 
-//void ATCommand(String atCommand){
-//  if (atCommand.startsWith("AT+")){
-//    serialSW.write(atCommand);
-//  }
-//}
 
 void setLED(String command){
   if (command=="R"){
