@@ -1,0 +1,13 @@
+D:\Smart-Learning-Factory\FINAL PROJECT\Project_3.1\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\bin\Debug\Interface_PLS_PCRegistry.exe.config
+D:\Smart-Learning-Factory\FINAL PROJECT\Project_3.1\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\bin\Debug\Interface_PLS_PCRegistry.exe
+D:\Smart-Learning-Factory\FINAL PROJECT\Project_3.1\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\bin\Debug\Interface_PLS_PCRegistry.pdb
+D:\Smart-Learning-Factory\FINAL PROJECT\Project_3.1\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\bin\Debug\Interop.ACTMULTILib.dll
+D:\Smart-Learning-Factory\FINAL PROJECT\Project_3.1\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\obj\Debug\Interface_PLS_PCRegistry.csprojAssemblyReference.cache
+D:\Smart-Learning-Factory\FINAL PROJECT\Project_3.1\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\obj\Debug\Interop.ACTMULTILib.dll
+D:\Smart-Learning-Factory\FINAL PROJECT\Project_3.1\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\obj\Debug\Interface_PLS_PCRegistry.csproj.ResolveComReference.cache
+D:\Smart-Learning-Factory\FINAL PROJECT\Project_3.1\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\obj\Debug\Interface_PLS_PCRegistry.Form1.resources
+D:\Smart-Learning-Factory\FINAL PROJECT\Project_3.1\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\obj\Debug\Interface_PLS_PCRegistry.Properties.Resources.resources
+D:\Smart-Learning-Factory\FINAL PROJECT\Project_3.1\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\obj\Debug\Interface_PLS_PCRegistry.csproj.GenerateResource.cache
+D:\Smart-Learning-Factory\FINAL PROJECT\Project_3.1\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\obj\Debug\Interface_PLS_PCRegistry.csproj.CoreCompileInputs.cache
+D:\Smart-Learning-Factory\FINAL PROJECT\Project_3.1\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\obj\Debug\Interface_PLS_PCRegistry.exe
+D:\Smart-Learning-Factory\FINAL PROJECT\Project_3.1\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\Interface_PLS_PCRegistry\obj\Debug\Interface_PLS_PCRegistry.pdb
